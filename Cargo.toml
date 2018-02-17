@@ -1,0 +1,8 @@
+[package]
+name = "orebot"
+version = "0.1.0"
+authors = ["Adam Gausmann <agausmann@fastmail.com>"]
+
+[dependencies]
+irc = "0.13"
+postgres = "0.15"
